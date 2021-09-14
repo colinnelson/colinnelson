@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @colinnelson
-- 👀 I’m interested in Mountains
+- 👀 I’m interested in mountains
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on cool things
 - 📫 Call my agent
